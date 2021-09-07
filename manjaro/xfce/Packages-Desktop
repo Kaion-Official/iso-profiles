@@ -200,7 +200,11 @@ screenfetch
 >extra viewnior
 >extra xfburn
 >extra yelp
-
+>extra brave-browser
+>extra thonny
+>extra audacity
+>extra wine
+>extra playonlinux
 # Optional dependencies engrampa
 p7zip  # 7Z and ARJ archive support
 unace  # ACE archive support
