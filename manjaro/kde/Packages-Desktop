@@ -237,6 +237,14 @@ poppler-data  # encoding data to display PDF documents containing CJK characters
 >extra elisa
 dmidecode # for inxi -m output
 firefox
+>extra brave-browser
+>extra thonny
+>extra torbrowser-launcher
+>extra hydra
+>extra audacity
+>extra pycharm-community-edition
+>extra ncrack
+>extra aircrack-ng
 htop
 inxi
 #>extra krita
