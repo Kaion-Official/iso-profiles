@@ -190,6 +190,7 @@ spectacle
 >extra pycharm-community-edition
 >extra ncrack
 >extra aircrack-ng
+
 ## Optional dependencies for ark
 p7zip  # 7Z format support
 unarchiver  # RAR format support
