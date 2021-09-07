@@ -205,6 +205,7 @@ screenfetch
 >extra audacity
 >extra wine
 >extra playonlinux
+
 # Optional dependencies engrampa
 p7zip  # 7Z and ARJ archive support
 unace  # ACE archive support
