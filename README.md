@@ -119,10 +119,10 @@
 # hostname="manjaro"
 
 ## unset defaults to given value
-# username="manjaro"
+# username="Kaion"
 
 ## unset defaults to given value
-# password="manjaro"
+# password="Kaion"
 
 ## the login shell
 ## defaults to bash
